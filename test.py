@@ -1,1 +1,2 @@
-print("Hello World")
+def printMarks():
+	print("printMarks")
