@@ -33,6 +33,6 @@ master -> prod => prod.com ->fs
 
 
 
-
-
-
+app -> branches -> data -> dev
+						-> test
+						-> master -> prod
