@@ -34,6 +34,11 @@ master -> prod => prod.com ->fs
 changes wantedly doing for the conflicts
 lets try to get conflicts
 
+git dev -code1
+git test - code2
+
+dev changes added to test -> code1+code2 -> local test sync
+
 app -> branches -> data -> dev
 						-> test
 						-> master -> prod
