@@ -34,6 +34,11 @@ master -> prod => prod.com ->fs
 changes wantedly doing for the conflicts
 lets try to get conflicts
 
+test -default 	-> master
+				-> test
+				-> dev -> file 
+resolved conflicts
+
 git dev -code1
 git test - code2
 
